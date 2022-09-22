@@ -86,8 +86,6 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #------VTVCab--------#
 
 #EXTINF:0 tvg-id="vtvcab1hd"group-title="🆅🆃🆅🄲🄰🄱" tvg-logo="https://i.ibb.co/SKBzQvQ/VTVCAB1.png",VTVCab1 - Vie GIẢI TRÍ
-#EXTVLCOPT:http-user-agent="Bear TV"
-#http://gg.gg/beartv-vtvcab1
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab2hd"group-title="🆅🆃🆅🄲🄰🄱" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png",ON PHIM VIỆT
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
