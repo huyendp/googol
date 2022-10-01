@@ -539,45 +539,45 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #----------------------------------------------------------------------------------------#
 
-
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
+#EXTINF:-1 tvg-id="arirang" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/215.png", ABC Australia
+#EXTINF:-1 tvg-id="abcaustralia" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/215.png", ABC Australia
 https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
 https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
+#EXTINF:-1 tvg-id="cnbc" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
+#EXTINF:-1 tvg-id="cnn" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
+#EXTINF:-1 tvg-id="cna" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
+#EXTINF:-1 tvg-id="" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
+#EXTINF:-1 tvg-id="dw" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="france24eng" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
+#EXTINF:-1 tvg-id="france24eng" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 https://api.vthanhtivi.pw/v1/getlink/vieon/france-24-english-hd
 
-#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World
+#EXTINF:-1 tvg-id="kbsworld" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World
 https://api.vthanhtivi.pw/v1/getlink/vieon/kbs-world
 
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHK World
+#EXTINF:-1 tvg-id="" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHK World
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png", TV5Monde
+#EXTINF:-1 tvg-id="" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png", TV5Monde
 https://api.vthanhtivi.pw/v1/getlink/vieon/tv5-monde-asie
 
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
+#EXTINF:-1 tvg-id="" group-title="🄺🄴🄽🄷🅀🅄🄾🄲🅃🄴" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
 
 #--------------------------------------------------------------------------------------------#
 
