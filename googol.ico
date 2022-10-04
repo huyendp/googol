@@ -147,6 +147,52 @@ http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
 #-------------------------------------------------------#
+#----------VTVcab ON---------#
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/SxPDBcS/ON-Football-HD.jpg", ON FOOTBALL
+https://livevlive.vtvcab.vn/ondrm/BONGDA_HD/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/qCrL2cy/23-ON-Golf.jpg", ON GOLF
+https://livevlive.vtvcab.vn/ondrm/THETHAO_GOLF_HD/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/DkR2vGK/onsport.png", ON SPORTS +
+https://livevlive.vtvcab.vn/ondrm/HAY_TV/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/2vvw6Q1/onsports.png", ON SPORTS
+https://livevlive.vtvcab.vn/ondrm/THETHAO_HD/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/9wbdbMV/18-ON-Sports-News.jpg", ON SPORTS NEWS
+https://livevlive.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/pXnp5Wb/ON-VFF.jpg", ON VFF
+https://livevlive.vtvcab.vn/ondrm/ONVFFTV/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GcFzJRr/ON-Volleyball.jpg", ONVOLLEYBALL
+https://livevlive.vtvcab.vn/ondrm/ONVOLLEYBALL/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/vwwHnH1/ON-Football-ENG.png", On Football Eng
+https://livevlive.vtvcab.vn/ondrm/ONFOOTBALLTA/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/tJg8Hbc/ON-Sports-News-ENG.png", On Sports News Eng
+https://livevlive.vtvcab.vn/ondrm/ONSPORTNEWSTA/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/SxPDBcS/ON-Football-HD.jpg", ON GOLF ENG
+https://livevlive.vtvcab.vn/ondrm/ONGOLFTA/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/9bjvW17/ON-Sports-ENG.png", On Sports Eng
+https://livevlive.vtvcab.vn/ondrm/ONSPORTTA/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 01
+https://s.id/liveon01
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 02
+https://s.id/liveon03
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 03
+https://s.id/liveon02
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 04
+https://s.id/liveon04
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 05
+https://s.id/liveon05
+
 
 #-------------VTC--------#
 
@@ -261,54 +307,6 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Refere
 #EXTINF:0 tvg-id="btv5hd"group-title="🆂🅲🆃🆅"tvg-logo="https://i.ibb.co/NNpj992/BTV5-BEARTV.png" ,BTV5 HD - SSPORT 3 
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
 
-
-#===================================================================#
-
-#----------VTVcab ON---------#
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/SxPDBcS/ON-Football-HD.jpg", ON FOOTBALL
-https://livevlive.vtvcab.vn/ondrm/BONGDA_HD/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/qCrL2cy/23-ON-Golf.jpg", ON GOLF
-https://livevlive.vtvcab.vn/ondrm/THETHAO_GOLF_HD/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/DkR2vGK/onsport.png", ON SPORTS +
-https://livevlive.vtvcab.vn/ondrm/HAY_TV/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/2vvw6Q1/onsports.png", ON SPORTS
-https://livevlive.vtvcab.vn/ondrm/THETHAO_HD/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/9wbdbMV/18-ON-Sports-News.jpg", ON SPORTS NEWS
-https://livevlive.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/pXnp5Wb/ON-VFF.jpg", ON VFF
-https://livevlive.vtvcab.vn/ondrm/ONVFFTV/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GcFzJRr/ON-Volleyball.jpg", ONVOLLEYBALL
-https://livevlive.vtvcab.vn/ondrm/ONVOLLEYBALL/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/vwwHnH1/ON-Football-ENG.png", On Football Eng
-https://livevlive.vtvcab.vn/ondrm/ONFOOTBALLTA/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/tJg8Hbc/ON-Sports-News-ENG.png", On Sports News Eng
-https://livevlive.vtvcab.vn/ondrm/ONSPORTNEWSTA/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/SxPDBcS/ON-Football-HD.jpg", ON GOLF ENG
-https://livevlive.vtvcab.vn/ondrm/ONGOLFTA/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/9bjvW17/ON-Sports-ENG.png", On Sports Eng
-https://livevlive.vtvcab.vn/ondrm/ONSPORTTA/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 01
-https://s.id/liveon01
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 02
-https://s.id/liveon03
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 03
-https://s.id/liveon02
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 04
-https://s.id/liveon04
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 05
-https://s.id/liveon05
 
 #================================================================================#
 
@@ -630,8 +628,23 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🅳🅸🅰 🅿🅷🆄🅾🅽🅶" tvg-logo="https://vthanh.xyz/ic/184.png", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
+#================================================================#
 
+# NHÓM KÊNH KHÁM PHÁ#
+#EXTINF:-1 tvg-id="animalhd" group-title="🅺🅷🅰🅼 🅿🅷🅰" tvg-logo="https://vthanh.xyz/ic/222.png", Animal Planet
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🅺🅷🅰🅼 🅿🅷🅰" tvg-logo="https://vthanh.xyz/ic/223.png", Discovery
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🅺🅷🅰🅼 🅿🅷🅰" tvg-logo="https://vthanh.xyz/ic/224.png", Discovery Asia
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="ngwhd" group-title="🅺🅷🅰🅼 🅿🅷🅰" tvg-logo="https://vthanh.xyz/ic/226.png", Nat Geo Wild HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="🅺🅷🅰🅼 🅿🅷🅰" tvg-logo="https://vthanh.xyz/ic/227.png", Outdoor Channel HD
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 #----------------------------------------------------------------------------------------#
 
@@ -679,20 +692,5 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #--------------------------------------------------------------------------------------------#
 
-# NHÓM KÊNH KHÁM PHÁ#
-#EXTINF:-1 tvg-id="animalhd" group-title="🅺🅷🅰🅼 🅿🅷🅰" tvg-logo="https://vthanh.xyz/ic/222.png", Animal Planet
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🅺🅷🅰🅼 🅿🅷🅰" tvg-logo="https://vthanh.xyz/ic/223.png", Discovery
-https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🅺🅷🅰🅼 🅿🅷🅰" tvg-logo="https://vthanh.xyz/ic/224.png", Discovery Asia
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="ngwhd" group-title="🅺🅷🅰🅼 🅿🅷🅰" tvg-logo="https://vthanh.xyz/ic/226.png", Nat Geo Wild HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="🅺🅷🅰🅼 🅿🅷🅰" tvg-logo="https://vthanh.xyz/ic/227.png", Outdoor Channel HD
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
 
