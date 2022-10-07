@@ -193,6 +193,22 @@ https://s.id/liveon04
 #EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/X85QMGt/onsportstv-BEARTV.png",ON Sports TV 05
 https://s.id/liveon05
 
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GHhYxJF/On-Sports-tv.webp",ON Sports TV 01
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m40_index.m3u8
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GHhYxJF/On-Sports-tv.webp",ON Sports TV 01
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT2/sc-gaFEAA/m40_index.m3u8
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GHhYxJF/On-Sports-tv.webp",ON Sports TV 01
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT3/sc-gaFEAA/m40_index.m3u8
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GHhYxJF/On-Sports-tv.webp",ON Sports TV 01
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT4/sc-gaFEAA/m40_index.m3u8
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GHhYxJF/On-Sports-tv.webp",ON Sports TV 01
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT5/sc-gaFEAA/m40_index.m3u8
+
+
 
 #-------------VTC--------#
 
