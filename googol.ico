@@ -189,7 +189,10 @@ https://livevlive.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/pXnp5Wb/ON-VFF.jpg", ON VFF
 https://livevlive.vtvcab.vn/ondrm/ONVFFTV/manifest.mpd
 
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GcFzJRr/ON-Volleyball.jpg", ONVOLLEYBALL
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GcFzJRr/ON-Volleyball.jpg", ONVOLLEYBALL sv2
+https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAQ/m30_index.m3u8
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GcFzJRr/ON-Volleyball.jpg", ONVOLLEYBALL  sv2
 https://livevlive.vtvcab.vn/ondrm/ONVOLLEYBALL/manifest.mpd
 
 #EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/vwwHnH1/ON-Football-ENG.png", On Football Eng
