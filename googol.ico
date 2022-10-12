@@ -4,8 +4,7 @@
 http://116.108.198.74:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=dab285bf-b16e-42a6-8ba8-e9fa72a980fe&MinBw=0&MaxBw=20000000
 
 #EXTINF:0 group-title="🆅🆃🆅" tvg-logo="https://i.ibb.co/X8GscXZ/VTV1.webp", VTV1 VIEON
-https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/2a9a5e203995495047576ff2044e1cd3/1665635960466/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
-
+https://bdg-vtt-live-002-livecdn-vthn-vnd.vieon.vn/8f4c21851302130e28a453fba1582b2b/1665636334772/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
 
 #------VTV-----#
 
