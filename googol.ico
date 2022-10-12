@@ -171,40 +171,65 @@ https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #-------------------------------------------------------#
 #----------VTVcab ON---------#
 
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/SxPDBcS/ON-Football-HD.jpg", ON FOOTBALL
-https://livevlive.vtvcab.vn/ondrm/BONGDA_HD/manifest.mpd
 
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/qCrL2cy/23-ON-Golf.jpg", ON GOLF
-https://livevlive.vtvcab.vn/ondrm/THETHAO_GOLF_HD/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/DkR2vGK/onsport.png", ON SPORTS +
-https://livevlive.vtvcab.vn/ondrm/HAY_TV/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/2vvw6Q1/onsports.png", ON SPORTS
-https://livevlive.vtvcab.vn/ondrm/THETHAO_HD/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/9wbdbMV/18-ON-Sports-News.jpg", ON SPORTS NEWS
-https://livevlive.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/pXnp5Wb/ON-VFF.jpg", ON VFF
-https://livevlive.vtvcab.vn/ondrm/ONVFFTV/manifest.mpd
-
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GcFzJRr/ON-Volleyball.jpg", ONVOLLEYBALL sv2
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GcFzJRr/ON-Volleyball.jpg", ONVOLLEYBALL
 https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAQ/m30_index.m3u8
 
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GcFzJRr/ON-Volleyball.jpg", ONVOLLEYBALL  sv2
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/SxPDBcS/ON-Football-HD.jpg", ON FOOTBAL
+https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/qCrL2cy/23-ON-Golf.jpg", ON GOLF
+https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAQ/m30_index.m3u8
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/DkR2vGK/onsport.png", ON SPORTS
+https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/127a84db522678a3e40231841049919d/1665667399386/vtvcab/live/hd_vtvcab_3/playlist.m3u8
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/DkR2vGK/onsport.png", ON SPORTS +
+https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
+
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/9wbdbMV/18-ON-Sports-News.jpg", ON SPORTS NEWS
+https://livevlive.vtvcab.vn/hls/OS_THETHAO_TINTUC_HD/sc-gaFEAA/m30_index.m3u8
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/pXnp5Wb/ON-VFF.jpg", ON VFF
+https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAQ/m30_index.m3u8
+
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/SxPDBcS/ON-Football-HD.jpg", Golf News
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/SxPDBcS/ON-Football-HD.jpg", ON FOOTBALL MPD
+https://livevlive.vtvcab.vn/ondrm/BONGDA_HD/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/qCrL2cy/23-ON-Golf.jpg", ON GOLF MPD
+https://livevlive.vtvcab.vn/ondrm/THETHAO_GOLF_HD/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/DkR2vGK/onsport.png", ON SPORTS + MPD
+https://livevlive.vtvcab.vn/ondrm/HAY_TV/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/2vvw6Q1/onsports.png", ON SPORTS MPD
+https://livevlive.vtvcab.vn/ondrm/THETHAO_HD/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/9wbdbMV/18-ON-Sports-News.jpg", ON SPORTS NEWS MPD
+https://livevlive.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/pXnp5Wb/ON-VFF.jpg", ON VFF MPD
+https://livevlive.vtvcab.vn/ondrm/ONVFFTV/manifest.mpd
+
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GcFzJRr/ON-Volleyball.jpg", ONVOLLEYBALL MPD
 https://livevlive.vtvcab.vn/ondrm/ONVOLLEYBALL/manifest.mpd
 
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/vwwHnH1/ON-Football-ENG.png", On Football Eng
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/vwwHnH1/ON-Football-ENG.png", On Football Eng MPD
 https://livevlive.vtvcab.vn/ondrm/ONFOOTBALLTA/manifest.mpd
 
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/tJg8Hbc/ON-Sports-News-ENG.png", On Sports News Eng
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/tJg8Hbc/ON-Sports-News-ENG.png", On Sports News Eng MPD
 https://livevlive.vtvcab.vn/ondrm/ONSPORTNEWSTA/manifest.mpd
 
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/SxPDBcS/ON-Football-HD.jpg", ON GOLF ENG
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/SxPDBcS/ON-Football-HD.jpg", ON GOLF ENG MPD
 https://livevlive.vtvcab.vn/ondrm/ONGOLFTA/manifest.mpd
 
-#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/9bjvW17/ON-Sports-ENG.png", On Sports Eng
+#EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/9bjvW17/ON-Sports-ENG.png", On Sports Eng MPD
 https://livevlive.vtvcab.vn/ondrm/ONSPORTTA/manifest.mpd
 
 #EXTINF:0 group-title="🆅🆃🆅🄲🄰🄱 🄾🄽" tvg-logo="https://i.ibb.co/GHhYxJF/On-Sports-tv.webp",ON Sports TV 1
