@@ -1,10 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅" tvg-name="VTV1 HD" tvg-logo="https://i.ibb.co/X8GscXZ/VTV1.webp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 TV360
-http://116.108.198.74:18080//154_2.m3u8?AdaptiveType=HLS&SessionID=dab285bf-b16e-42a6-8ba8-e9fa72a980fe&MinBw=0&MaxBw=20000000
-
-#EXTINF:0 group-title="🆅🆃🆅" tvg-logo="https://i.ibb.co/X8GscXZ/VTV1.webp", VTV1 VIEON
-https://bdg-vtt-live-002-livecdn-vthn-vnd.vieon.vn/8f4c21851302130e28a453fba1582b2b/1665636334772/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
 
 #------VTV-----#
 
