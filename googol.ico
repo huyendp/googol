@@ -361,6 +361,16 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 
 #--------🅺+-------------#
 
+#EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD sv1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=840d4ba9916544a9bbf4f62371b7e116&key=86ccc8f30da09264fddd16aa9f60a21a
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="Klifehd" group-title="🅺+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD sv1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=182ab470703544cf8cc2c451e57b08ce&key=6b03284a1edf58fbd442afdc2fa4e4c7
+https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD sv1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=004ed66b5a9943758b45bd8c8a20f893&key=e296a851bd5737fedd7c4027e08a23a3
@@ -400,6 +410,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M6sr+iTkmlih4LxZgZGFgA","kid":"Hq/LU9sARTKLYMzQjnpezw"}],"type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
+
 #--------------------------------------------------------------------------------------------------------------------#
 
 #------- HTV--------#
