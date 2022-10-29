@@ -361,7 +361,7 @@ https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2B
 
 #--------🅺+-------------#
 
-#EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD kplus.vn
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD kplus.vn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2918cf1769a24ad8b8d07ab5a2d7a716&key=d024527db94c6c1ab292791fc6e722e9
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
