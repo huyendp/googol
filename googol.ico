@@ -56,7 +56,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD sv1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d5a3b2fc25024dc689d39e2e599b5b31&key=111d5e64ef2963de5c533ac12560af39
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f847e8907b7440e883fa4996c1456e6f&key=540e8f172fd17447abd2d753c50448e4
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 
