@@ -3,24 +3,48 @@
 #================================================================================#
 
 #--------🅺+-------------#
+#EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD sv1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f2ae9c621a70434b82f17d9dcdf9fa03&key=5923a82df114f71f92561d8334b2b507
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd?maxrate=3000000
+
+#EXTINF:-1 tvg-id="Klifehd" group-title="🅺+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD sv1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fdb809f46f84b55991ad130c5ee2d24&key=e659fd20701e4246eaeceb5dde18fb8d
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd?maxrate=3000000
+
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD sv1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=79d5dc0a7f714e298010da063b22155b&key=841571b72077bbe04c5d748a6b561c15
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd?maxrate=3000000
+
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD sv1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f847e8907b7440e883fa4996c1456e6f&key=540e8f172fd17447abd2d753c50448e4
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000
+
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD sv1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3936babfc9ec428a9372857fb6b51769&key=8851df7d9ba7387913c06fa2d9acfedf
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd?maxrate=3000000
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.ibb.co/NjYd1XX/Kplus-Cine-HD.webp", K+CINE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fOJ9bH2bRdJ0rDAAxGGRUA","kid":"FcMoMbnEQ9+DesPsxu7kiw"}],"type":"temporary"}
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"f2ae9c621a70434b82f17d9dcdf9fa03","kid":"5923a82df114f71f92561d8334b2b507"}],"type":"temporary"}
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/index.mpd?maxrate=3000000
 
 #EXTINF:-1 tvg-id="Klifehd" group-title="🅺+" tvg-logo="https://i.ibb.co/zm0yLBJ/K-Life-HD-2021.webp", K+LIFE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5knE3muScQfXLOBAkrpH8Q","kid":"NC1HteL4Rbq46GzbU8qMnA"}],"type":"temporary"}
-https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9fdb809f46f84b55991ad130c5ee2d24","kid":"e659fd20701e4246eaeceb5dde18fb8d"}],"type":"temporary"}
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd?maxrate=3000000
 
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0CRSfblMbBqyknkfxuci6Q","kid":"KRjPF2miSti40Hq1otenFg"}],"type":"temporary"}
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd?maxrate=3000000
 
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -39,25 +63,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2918cf1769a24ad8b8d07ab5a2d7a716&key=d024527db94c6c1ab292791fc6e722e9
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD sv1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=840d4ba9916544a9bbf4f62371b7e116&key=86ccc8f30da09264fddd16aa9f60a21a
-https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Klifehd" group-title="🅺+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD sv1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=182ab470703544cf8cc2c451e57b08ce&key=6b03284a1edf58fbd442afdc2fa4e4c7
-https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD sv1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=004ed66b5a9943758b45bd8c8a20f893&key=e296a851bd5737fedd7c4027e08a23a3
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="🅺+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD sv1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f847e8907b7440e883fa4996c1456e6f&key=540e8f172fd17447abd2d753c50448e4
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 
 
