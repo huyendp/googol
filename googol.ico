@@ -32,13 +32,6 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd?maxrat
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/index.mpd?maxrate=3000000
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD sv1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f2ae9c621a70434b82f17d9dcdf9fa03&key=5923a82df114f71f92561d8334b2b507
